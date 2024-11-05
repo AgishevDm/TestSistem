@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp3", "WpfApp3.csproj", "{88CBF0B0-F58E-4E62-929E-28BD7BC48A22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ТЕСТЫ ПО ИНФОРМАТИКЕ|Any CPU = ТЕСТЫ ПО ИНФОРМАТИКЕ|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88CBF0B0-F58E-4E62-929E-28BD7BC48A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CBF0B0-F58E-4E62-929E-28BD7BC48A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CBF0B0-F58E-4E62-929E-28BD7BC48A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CBF0B0-F58E-4E62-929E-28BD7BC48A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CBF0B0-F58E-4E62-929E-28BD7BC48A22}.ТЕСТЫ ПО ИНФОРМАТИКЕ|Any CPU.ActiveCfg = ТЕСТЫ ПО ИНФОРМАТИКЕ|Any CPU
+		{88CBF0B0-F58E-4E62-929E-28BD7BC48A22}.ТЕСТЫ ПО ИНФОРМАТИКЕ|Any CPU.Build.0 = ТЕСТЫ ПО ИНФОРМАТИКЕ|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55D1EE1A-C67A-4D73-9570-68C3E5AA3CAD}
+	EndGlobalSection
+EndGlobal
